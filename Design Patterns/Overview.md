@@ -8,8 +8,8 @@
    -  공통적인 상황을 만나는 개발자들이 경험과 지식을 공유하여 개선된 솔루션을 제안하기 위함.
    -  SW 재사용성, 호환성, 유지 보수성을 보장
 -  GoF Design Patterns
-   -  'Design Patterns: Elements of Reusable Object-Oriented Software' 책에 의해 유행한 특정 디자인 패턴의 집합
-   -  GoF(Gang of Four): [Design Patterns: Elements of Reusable Object-Oriented Software]라는 책을 쓴 4명의 저자
+   -  [Design Patterns: Elements of Reusable Object-Oriented Software] 책에 의해 유행한 특정 디자인 패턴의 집합
+   -  GoF(Gang of Four): 해당 책을 쓴 4명의 저자
 -  분류
    -  목적에 따른 분류
       -  생성(Creational)
