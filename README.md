@@ -15,7 +15,7 @@
 
 ## Design Patterns
 
--  Design Patterns(GoF) Overview
+-  [Design Patterns(GoF) Overview](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Overview.md)
 -  Creational Patterns
 
    -  Abstract Factory
