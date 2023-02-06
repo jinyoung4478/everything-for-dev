@@ -15,7 +15,7 @@
 
 ## Design Patterns
 
--  Overview & GoF
+-  Design Patterns(GoF) Overview
 -  Creational Patterns
 
    -  Abstract Factory
@@ -39,7 +39,6 @@
 -  Transaction
 -  INDEX
 -  Normalization
--
 
 ## Data Structure
 
@@ -58,5 +57,3 @@
 -  OAuth
 -  CSR & SSR
 -  PWA
-
-##
