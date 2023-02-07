@@ -23,16 +23,42 @@
 
 객체의 생성 방식 결정
 
+-  Singleton
+-  Factory
+-  Abstract
+-  Builder
+-  Prototype
+
 ---
 
 ## Structural Patterns
 
 객체간의 관계를 조직
 
+-  Adaptor
+-  Composite
+-  Proxy
+-  Flyweight
+-  Facade
+-  Bridge
+-  Decorator
+
 ---
 
 ## Behavioral Patterns
 
 객체나 클래스의 교류 방법(조직, 관리, 연합)에 대해 정의
+
+-  Template Method
+-  Mediator
+-  Chain of Responsibility
+-  Observer
+-  Command
+-  State
+-  Visitor
+-  Interpreter
+-  Iterator
+-  Memento
+-  Strategy
 
 ---
