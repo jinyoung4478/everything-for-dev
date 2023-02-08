@@ -24,7 +24,7 @@
 객체의 생성 방식 결정
 
 -  Class Pattern: 객체를 생성 일부를 서브클래스에게 위임
-   -  Factory Method
+   -  [Factory Method](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Factory%20Method.md)
 -  Object Pattern: 객체 생성을 다른 객체에게 위임
    -  Abstract Factory
    -  Builder
