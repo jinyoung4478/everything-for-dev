@@ -18,20 +18,40 @@
 -  [Design Patterns(GoF) Overview](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Overview.md)
 -  Creational Patterns
 
-   -  Abstract Factory
-   -  Singleton
-   -  Prototype
+   -  Class Patterns
+      -  [Factory Method](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Factory%20Method.md)
+   -  Object Patterns
+      -  Abstract Factory
+      -  Builder
+      -  Prototype
+      -  Singleton
 
 -  Structural Patterns
 
-   -  Adapter
-   -  Bridge
-   -  Decorator
+   -  Class Patterns
+      -  Adaptor(Class)
+   -  Object Patterns
+      -  Adaptor(Object)
+      -  Composite
+      -  Bridge
+      -  Proxy
+      -  Flyweight
+      -  Facade
+      -  Decorator
 
 -  Behavioral Patterns
-   -  Chain of Responsibility
-   -  Command
-   -  Interpreter
+   -  Class Patterns
+      -  Template Method
+   -  Object Patterns
+      -  Mediator
+      -  Chain of Responsibility
+      -  Observer
+      -  Command
+      -  State
+      -  Visitor
+      -  Iterator
+      -  Memento
+      -  Strategy
 
 ## Database
 
