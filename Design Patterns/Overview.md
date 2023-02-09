@@ -5,7 +5,7 @@
 소프트웨어 설계에서 반복적으로 나타나는 문제를 해결하기위한 설계 기법
 
 -  목적
-   -  공통적인 상황을 만나는 개발자들이 경험과 지식을 공유하여 개선된 솔루션을 제안하기 위함.
+   -  공통적인 상황을 만나는 개발자들이 경험과 지식을 공유하여 개선된 솔루션을 제안하기 위함
    -  SW 재사용성, 호환성, 유지 보수성을 보장
 -  GoF Design Patterns
    -  [Design Patterns: Elements of Reusable Object-Oriented Software] 책에 의해 유행한 특정 디자인 패턴의 집합
