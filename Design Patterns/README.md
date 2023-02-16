@@ -30,7 +30,7 @@
 -  Object Pattern: 객체 생성을 다른 객체에게 위임
    -  Abstract Factory
    -  Builder
-   -  Prototype
+   -  [Prototype](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Prototype.md)
    -  Singleton
 
 ---
