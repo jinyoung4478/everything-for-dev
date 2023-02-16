@@ -23,7 +23,7 @@
    -  Object Patterns
       -  Abstract Factory
       -  Builder
-      -  Prototype
+      -  [Prototype](https://github.com/jinyoung4478/everything-for-dev/blob/main/Design%20Patterns/Prototype.md)
       -  Singleton
 
 -  Structural Patterns
