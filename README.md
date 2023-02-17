@@ -77,3 +77,18 @@
 -  OAuth
 -  CSR & SSR
 -  PWA
+
+## Software Engineering
+
+-  TDD(Test Driven Development)
+-  객체 지향 프로그래밍(OOP: Object-Oriented Programing)
+-  애자일(Agile)
+-  서드파티(3rd party)
+-  마이크로서비스 아키텍쳐(MSA: Micro Service Architecture)
+
+## Operating System
+
+-  운영체제(OS: Operating System)
+-  프로세스 & 스레드
+-  데드락(DeadLock)
+-  메모리(Memory)
